@@ -1,4 +1,4 @@
-# 
+# VIP BitMEX交易机器人 附加组件 for Mac OS | 终极 BitMEX交易机器人 附加组件 for PC Windows. Featuring DEX流动性池 and 均值回归策略 — optimized for maximum performance.
 
 
 
